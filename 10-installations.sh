@@ -22,7 +22,7 @@ then
 
 dnf install git -y
 
-if [ $? -ne 0]
+if [$? -ne 0]
 then 
     echo "installation off git......failure"
 else
