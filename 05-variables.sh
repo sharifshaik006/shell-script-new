@@ -8,4 +8,4 @@ read USERNAME # here read is the command in the shell and USERNAME IS the variab
 echo "enter password is "
 read PASSWORD 
 
-echo "my username is  my password is 
+echo "my username is  my password is"
