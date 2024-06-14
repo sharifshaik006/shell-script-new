@@ -15,6 +15,6 @@ echo "please enter username is "
 read -s USERNAME # here read is the command in the shell and USERNAME IS the variable read -s is where the data wont be visible
 
 echo "enter password is "
-read-s PASSWORD 
+read -s PASSWORD 
 
 echo "my username is ${USERNAME}  my password is ${PASSWORD}"
