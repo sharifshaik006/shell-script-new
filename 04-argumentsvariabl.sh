@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Always the Main programme or code shouldn't be touched we have to keep less edits and never hardcode in the code keeping it simple all the times
+
 # REFERRING VARIABLES WHICH MEANS  this is refering the variable PERSON
 PERSON1=$1
 PERSON2=$2
