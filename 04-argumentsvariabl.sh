@@ -2,6 +2,8 @@
 
 # Always the Main programme or code shouldn't be touched we have to keep less edits and never hardcode in the code keeping it simple all the times
 
+# we will pass the argument in here while running the script 
+
 # REFERRING VARIABLES WHICH MEANS  this is refering the variable PERSON
 PERSON1=$1
 PERSON2=$2
