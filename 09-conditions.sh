@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NUMBER =$1
+NUMBER=$1
 #-gt, -lt, -eq, -ge, -le
 
 if [$NUMBER -gt 10]
